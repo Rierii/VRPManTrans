@@ -45,8 +45,8 @@ def create_data_model():
         ]
     ]
     data['demands'] = [0, 39, 48, 27, 35, 30, 26, 44, 53, 32, 42]
-    data['vehicle_capacities'] = [100,100,100,100,100]
-    data['num_vehicles'] = 5
+    data['vehicle_capacities'] = [100,100,100,100]
+    data['num_vehicles'] = 4
     data['depot'] = 0
     return data
 
